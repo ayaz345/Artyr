@@ -41,4 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaz345&show_icons=true&locale=en" alt="ayaz345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaz345&" alt="ayaz345" /></p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?noug4at=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
