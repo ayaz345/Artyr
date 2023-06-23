@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **From Goldsource to Source**
 
-- 👯 I’m looking to collaborate on **Sunfire: Intevention**
+- 👯 I’m looking to collaborate on **Sunfire: Intervention**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
